@@ -14,7 +14,7 @@
 The objective of this project is to analyze the sales data of three warehouses selling motorcycle parts at wholesale and retail. We want to gain a better understanding of wholesale revenue by product line, and how this varies month-to-month and across warehouses. Additionally, we want to explore ways to reduce transaction costs and improve profitability. Our final task will be to aid the marketing team in finding our most popular product lines for both retail and wholesale customers to plan a targeted marketing campaign. 
 
 ## Data Source
-The data file, revenue_by_product_line.csv, contains motorcycle part sales data from three seperate warehouses. 
+The data file, sales.csv, contains motorcycle part sales data from three seperate warehouses. 
 
 ## Tools
 - SQL
